@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/imgCCILogo_Final-02.png"
+title-img: "/assets/img/CCILogo_Final-02.png"
 
 
 #####################################
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "cciaj.org"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
