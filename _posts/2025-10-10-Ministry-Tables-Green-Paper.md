@@ -10,6 +10,7 @@ tags: [MCGES, Government, Jamaica, Policy, CCI, Green Paper]
 # author: Bill Smith
 ---
 
-On Tuesday October 7,2025, the Ministry of Culture, Gender and Sport tabled a Green Paper on the National Policy for Culture, Entertainment and the Creative Economy. 
+On Tuesday October 7,2025, the Ministry of Culture, Gender, Entertainment and Sport tabled a Green Paper on the National Policy for Culture, Entertainment and the Creative Economy. 
+
 
 The Green Paper is available for download [Here](assets/docs/NationalPolicyForCreatives.pdf)
