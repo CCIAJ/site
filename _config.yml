@@ -20,11 +20,11 @@ author: CCIAJ
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+ # About Me: "aboutme"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ #  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -105,7 +105,7 @@ share-links-active:
 url-pretty: "cciaj.org"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -128,7 +128,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Jamaica,culture,film,TV,fashion,music,craft,art,policy"
 
 ######################################
 # --- Colours / background image --- #
