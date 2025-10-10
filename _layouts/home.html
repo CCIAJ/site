@@ -3,6 +3,7 @@ layout: page
 ---
 
 {{ content }}
+{% include about.md %}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
