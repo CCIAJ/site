@@ -1,7 +1,8 @@
-.page-heading{
+.page-heading {
   visibility:hidden;
 }
 
-.intro-header .big-img{
-  background-size:auto auto;
+.intro-header .big-img {
+  width: 100vw;
+  background-size:cover;
 }
