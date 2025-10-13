@@ -2,7 +2,6 @@
   visibility:hidden;
 }
 
-img.intro-header{
-  max-width: 100%;
-  height: auto;
+.intro-header{
+  background-size:cover;
 }
