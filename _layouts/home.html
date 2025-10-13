@@ -4,6 +4,7 @@ layout: page
 
 {{ content }}
 {% include home_info.md %}
+{% include_relative about.md %}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
