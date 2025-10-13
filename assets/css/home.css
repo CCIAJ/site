@@ -2,7 +2,8 @@
   visibility:hidden;
 }
 
-.intro-header .big-img {
-  width: 100vw;
-  background-size:cover;
+@media (max-width: 768px) {
+  .intro-header .big-img {
+  display: none;
+  }
 }
