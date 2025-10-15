@@ -2,10 +2,11 @@
 width: 100vw;
 background-color: #009B3A;
 text-align: center;
+padding-top:5px;
+padding-bottom:5px;
 }
 
 .announcements a{
 color:#ffffff;
-padding-top:5px;
-padding-bottom:5px;
+
 }
