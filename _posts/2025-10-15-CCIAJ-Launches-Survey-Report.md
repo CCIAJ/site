@@ -8,7 +8,7 @@ tags:
   - Statistics
   - Analysis
 subtitle: CCI Data Reveals Sector Contributes 5.1% or JMD $107 Billion to GDP
-cover-img: "img/IMG_20251017111238.png"
+cover-img: "_posts/img/IMG_20251017111238.png"
 ---
 **Kingston, Jamaica — 15 October 2025**
 
