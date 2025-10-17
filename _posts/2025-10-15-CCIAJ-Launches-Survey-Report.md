@@ -20,8 +20,10 @@ However, the report also issued a challenge - data collection alone is not enoug
 
 **1. Develop a National Collaborative Framework**
     The CCIAJ called for a unified national framework that brings together government, multilaterals, private sector, diaspora, academia, and practitioners. This structure would strengthen cultural governance, improve policy coherence, and ensure sustained public investment. A proposed National CCI Data & Insights Programme would build on this survey’s baseline to better target resources and measure impact.
+
 **2. Make Strategic Investments in Creative Businesses**
 	The report identifies a JMD $5 billion financing gap and revealed that 88% of creatives require access to capital. CCIAJ urges financial institutions and investors to develop creative-specific financial products and treat the creative industries as a high-growth market opportunity.
+
 **3. Develop a National Performing Arts and Events Complex**  
      Practitioners across the island have voiced a need for purpose-built creative hubs. The CCIAJ proposes Jamaica’s first full-scale Performing Arts & Events Complex, a flagship Catalyst Project featuring performance venues, rehearsal spaces, exhibition halls, production studios, and digital broadcast facilities. This would serve as a legacy project and model for similar hubs across the island, anchoring Jamaica’s creative ecosystem and securing its future.
 
