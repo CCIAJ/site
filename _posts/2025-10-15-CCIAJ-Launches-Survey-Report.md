@@ -18,11 +18,11 @@ The findings underscore the sector’s economic and cultural significance: Jamai
 
 However, the report also issued a challenge - data collection alone is not enough. It called for decisive, coordinated action to address the main systemic barriers that limit growth and inclusion. Based on the survey’s findings, the CCIAJ has outlined three key calls to action:
 
-1. **Develop a National Collaborative Framework  
+**1. Develop a National Collaborative Framework**
     The CCIAJ called for a unified national framework that brings together government, multilaterals, private sector, diaspora, academia, and practitioners. This structure would strengthen cultural governance, improve policy coherence, and ensure sustained public investment. A proposed National CCI Data & Insights Programme would build on this survey’s baseline to better target resources and measure impact.
-2. **Make Strategic Investments in Creative Businesses  
+**2. Make Strategic Investments in Creative Businesses**
 	The report identifies a JMD $5 billion financing gap and revealed that 88% of creatives require access to capital. CCIAJ urges financial institutions and investors to develop creative-specific financial products and treat the creative industries as a high-growth market opportunity.
-3. **Develop a National Performing Arts and Events Complex  
+**3. Develop a National Performing Arts and Events Complex**  
      Practitioners across the island have voiced a need for purpose-built creative hubs. The CCIAJ proposes Jamaica’s first full-scale Performing Arts & Events Complex, a flagship Catalyst Project featuring performance venues, rehearsal spaces, exhibition halls, production studios, and digital broadcast facilities. This would serve as a legacy project and model for similar hubs across the island, anchoring Jamaica’s creative ecosystem and securing its future.
 
 Shullette Cox, President of JAMPRO stated, “I think this initiative to create and present data on the creative industries is a huge move in making others understand the potential of the industry, particularly government, financial institutions, and our global partners. And I believe that once we can get this information in front of them, then we can unlock numerous opportunities to do so much more for the industry.”
